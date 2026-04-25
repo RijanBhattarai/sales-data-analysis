@@ -129,13 +129,4 @@ Charts will be saved automatically in the `output_charts/` folder and a summary 
 
 ---
 
-## Author
-
-**Rijan**  
-IT Officer & Computing Student  
-📍 Kathmandu, Nepal  
-🔗 [GitHub](https://github.com/YOUR_USERNAME)
-
----
-
 *Part of a data analysis portfolio demonstrating Python data skills for professional and academic purposes.*
